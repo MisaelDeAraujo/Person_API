@@ -1,5 +1,7 @@
-# API REST para cadastro de pessoas, projeto em andamento.
+# Person API
+**API Rest para cadastro de pessoas, 🚧  Em construção...  🚧**
 
+# Tecnologias
 - Java 17
 - Spring Boot
 - Validation
